@@ -175,7 +175,7 @@ h3.banner_below span {
 	text-decoration: underline;
 }*/
 
-/*This code ensures that when we navigate to a particular section of a page, the section does not get lost behind the header*/
+
 #cameras:before, #watches:before, #shirts:before{
     display: block; 
     content: " "; 
