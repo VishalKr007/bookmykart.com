@@ -31,20 +31,7 @@
         ?>
         <!--Header end-->
 
-        <div id="content">
-            <!--Main banner image-->
-            <!--<div id = "banner_image">
-                <div class="container">	
-                    <center>
-                        <div id="banner_content">
-                            <h1>We sell lifestyle.</h1>
-                            <p>Flat 40% OFF on premium brands </p>
-                            <br/>
-                            <a  href="products.php" class="btn btn-danger btn-lg active">Shop Now</a>
-                        </div>
-                    </center>
-                </div>
-            </div>-->
+           <div id="content">
 			<div id="myCarousel" class="carousel slide" data-ride="carousel">
 			   <!--indicators-->
 			   <ol class="carousel-indicators">
