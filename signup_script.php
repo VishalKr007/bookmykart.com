@@ -1,4 +1,5 @@
 <?php
+    session_start();
     error_reporting(0);
     require_once("includes/common.php");
 	if(isset($_POST['submit'])){     
