@@ -1,6 +1,7 @@
 <?php
+    session_start();
     error_reporting(0);
-	require_once("includes/common.php");
+    require_once("includes/common.php");
     if(isset($_POST['submit'])){
 		$email = $_POST['email'];
 		$email = mysqli_real_escape_string($con,$email);
