@@ -24,7 +24,6 @@
             </div>
             <div class="modal-footer">
                 <p>Don't have an account?<a href="signup.php">Register</a></p>
-                <!--<p>Forgot<a href="forgotpswd.php"> Password</a></p>-->
             </div>
         </div>
     </div>
